@@ -1,2 +1,2 @@
-# Hello World
- first assignment
+# hello-world
+ my first repository
